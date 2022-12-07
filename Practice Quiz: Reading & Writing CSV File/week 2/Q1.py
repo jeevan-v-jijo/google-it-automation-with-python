@@ -27,5 +27,5 @@ def contents_of_file(filename):
       return_string += "a {} {} is {}\n".format(row["color"], row["name"], row["type"])
   return return_string
 
-#Call the function
+# Call the function
 print(contents_of_file("flowers.csv"))
