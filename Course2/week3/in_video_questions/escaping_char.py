@@ -11,11 +11,11 @@ print(check_character_groups("123  Ready Set GO")) # True
 print(check_character_groups("username user_01")) # True
 print(check_character_groups("shopping_list: milk, bread, eggs.")) # False
 
-Here is your output:
-False
-True
-True
-False
+# Here is your output:
+# False
+# True
+# True
+# False
 
-You got it! There's no escaping your regular expression
-expertise!
+# You got it! There's no escaping your regular expression
+# expertise!
