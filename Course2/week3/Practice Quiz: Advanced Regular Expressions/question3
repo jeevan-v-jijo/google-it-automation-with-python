@@ -1,0 +1,4 @@
+# Question 3
+# When capturing regex groups, what datatype does the groups method return?
+
+-->A tuple
